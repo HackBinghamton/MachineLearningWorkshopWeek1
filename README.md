@@ -8,7 +8,7 @@ Welcome to part one of our two-week machine learning series! This workshop will 
 Today's workshop covers:
 1. [Introduction to Machine Learning with scikit-learn](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek1/blob/master/intro_ml_scikit.ipynb)
 2. [Introduction to Neural Networks with Tensorflow](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek1/blob/master/intro_neural_networks_tf.ipynb)
-3. [Housing Cost Prediction with Machine Learning](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek1/blob/master/housing_price_prediction.ipynb)
+3. [Housing Price Prediction with Machine Learning](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek1/blob/master/housing_price_prediction.ipynb)
 
 
 ## Bug Bounties
