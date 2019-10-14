@@ -2,7 +2,11 @@
 
 ## Getting Started
 
-Welcome to part one of our two-week machine learning series! Week 1 will be a in the style of a traditional workshop: it will introduce various machine learning concepts and have you implement what you've learned on a real-world example. Week 2 will be more project-based, and there will be different tracks for those who are interested in different kinds of machine learning problems.
+Welcome to part one of our two-week machine learning series! 
+
+Week 1 will be a in the style of a traditional workshop: it will introduce various machine learning concepts and have you implement what you've learned on a real-world example. 
+
+Week 2 will be more project-based, and there will be different tracks for those who are interested in different kinds of machine learning problems.
 
 Today's workshop covers:
 1. [Introduction to Machine Learning with scikit-learn](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshopWeek1/blob/master/intro_ml_scikit.ipynb)
