@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-Welcome to part one of our two-week machine learning series! 
+Welcome to part one of our two-week machine learning series!
 
-Week 1 will be a in the style of a traditional workshop: it will introduce various machine learning concepts and have you implement what you've learned on a real-world example. 
+Week 1 will be a in the style of a traditional workshop: it will introduce various machine learning concepts and have you implement what you've learned on a real-world example.
 
 Week 2 will be more project-based, and there will be different tracks for those who are interested in different kinds of machine learning problems.
 
@@ -19,4 +19,4 @@ If you find a bug or mistake in our workshop, let an organizer know or [make a p
 
 ## Feedback
 
-If you attended our workshop on 10/16/2019, please leave feedback [here](https://forms.gle/fcUAgJZEey5D2uuUA). Fill out the form to be entered in a raffle for some HackBU swag!
+If you attended our workshop, please leave feedback [here](https://forms.gle/fcUAgJZEey5D2uuUA). Fill out the form to be entered in a raffle for some HackBU swag!
